@@ -23,9 +23,9 @@
 
    A `right line` does not go up or down between its start and end points.
 
-   It is also defined by Arhimedes as the shorest extension drawn betwen two points.
+   It is also defined by Arhimedes as the shortest extension drawn betwen two points.
 
-   It is also defined by Campanus of Novara as the shortes of all lines that have the same end points.
+   It is also defined by Campanus of Novara as the shortest of all lines that have the same end points.
 
     It is also defined by Plato as a line whereby blocking the middle does not prevent one end from seeing the other. (which I think is rather a circular way of saying light travels in straight lines, (unless under the influence of gravity, which will have to wait until Special Relativity))
 
