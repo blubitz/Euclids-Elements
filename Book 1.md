@@ -39,5 +39,68 @@
 
 6. Extremes of surfaces are lines.
 
-7. A plain surface is that which lies equally between its lines.
+7. A plain (flat) surface is that which lies equally between its lines.
+
+   A `plain surface` lies equally smooth between its lines without swelling or depression.
+
+   It is also defined as the shortest extension drawn from one line to another.
+
+8. A plain angle is an inclination of two lines that touch each other, but the two lines must not be able to form a single straight line after joining, or else there will be no angle.
+
+9. If the lines which contain the angle are right (straight) lines, then the angle is called a rightlined angle.
+
+10. If a right (straight) line standing on another right (straight) line marks two equal angles on both sides, then either of those angles are right angles, and the right (straight) line that stands errected is called a perpendicular line to the other line.
+
+11. An obtuse angle is an angle greater than a right angle.
+
+12. An acute angle is an angle less than a right angle.
+
+13. A limit or term is the end of every thing.
+
+    All `quantities` are defined to be finite and the ends of quantities are limits which enclose them.
+
+14. A `figure` is something that is contained by terms or limits.
+
+    A circle is contained by 1 term, and triangles 3 terms, sqaures 4 terms.
+
+16. A circle is a plain figure, contained by one line, which is called the circumference, onto which all lines drawn from one point in the figure have equal length.
+
+17. The center of the circle is the point mentioned above.
+
+18. The diameter of a circle is a right (straight) line passing through the center, which ends at the circumference on either side, and divides the circle in two equal parts.
+
+    It was proven by Thales Miletus that if a line passing through the center did not divide the circle into two equal parts, then all lines drawn from the center to the circumference are not equal.
+
+19. A semicircle is a `figure` enclosed by the diameter and the circumference cut by the diameter.
+
+20. A section or portion of a circle is a `figure` contained under a right (straight) line, and a part of the circumference, and is either greater than or less than the semi-circle.
+
+21. A righlined figure is a `figure` that is contained under right (straight) lines.
+
+21, 22, 23. 3-sided, 4-sided, and many-sided figures are figures contained by their respective number of right (straight) lines.
+
+   No figures can be formed under three straight lines.
+
+24. A triangle with equal sides is an equilateral triangle.
+
+25. A triangle with only 2 equal sides is an isosceles triangle.
+
+26. A scalene triangle is a triangle with no equal sides.
+
+27. A rightangled triangle is a traingle which has a right angle.
+
+28. An obtuse angle triangle is a triangle with an obtuse angle.
    
+29. An actueangled triangle is a triangle with has three acute angles.
+
+30. A square is a four sided figure with equal sides and right angles.
+
+31. A `figure` which has right angles but unequal sides is called a long square (rectangle).
+
+32. A rhombus has 4 equal sides but not rightangled.
+
+33. A (diamond like) (parallelogram) is a `figure` whose opposite sides and oppsoite angles are equal, but not all sides are equal and there are no right angles.
+
+34. All other 4-sided figures that are not squares, rectangles, rhombuses and parallelograms are trapezoids.
+
+35. Parallel lines are right (straight) lines on the same surface, and extending infinitely, never instersect with each other.
